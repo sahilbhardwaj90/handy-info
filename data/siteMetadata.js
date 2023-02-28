@@ -13,7 +13,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'sanbhardwaj1978@gmail.com',
+  email: 'handyinfotainment@gmail.com',
   github: 'https://github.com/sahilbhardwaj90',
   twitter: 'https://twitter.com/minopshot',
   locale: 'en-US',
